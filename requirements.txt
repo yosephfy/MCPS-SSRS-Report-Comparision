@@ -1,0 +1,2 @@
+# SSRS Comparator requirements
+selenium>=4.8.0
